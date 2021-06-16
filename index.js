@@ -26,6 +26,7 @@ console.log(String(num).length);
 
 
 //Follow up: Print the number of digits in a DECIMAL value (e.g. num = 123.45 has 5 digits but a length of 6).
+
 let num1 = 123.45
 console.log(String(num1).length-1);
 
